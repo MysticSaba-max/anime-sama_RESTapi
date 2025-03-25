@@ -1,0 +1,137 @@
+{
+  "timestamp": 1742902641.9291594,
+  "episodes": [
+    {
+      "name": "Episode 1",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 3 (Ile céleste)",
+      "index": 1,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774099",
+            "https://vidmoly.to/embed-wku73yrbom1z.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/thiknn9pe5ywzryox1gsgs3rxa",
+            "https://video.sibnet.ru/shell.php?videoid=4839022"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 2",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 3 (Ile céleste)",
+      "index": 2,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774105",
+            "https://vidmoly.to/embed-fxbuhrgojx3x.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/8u8w76w4ubmrjje9wycgu68d7a",
+            "https://video.sibnet.ru/shell.php?videoid=4839027"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 3",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 3 (Ile céleste)",
+      "index": 3,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774107",
+            "https://vidmoly.to/embed-kd05h9d03oi9.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/uruhpthh5hhr3cnx3gh74unnur",
+            "https://video.sibnet.ru/shell.php?videoid=4839030"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 4",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 3 (Ile céleste)",
+      "index": 4,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4817086",
+            "https://vidmoly.to/embed-j1vi4zh0mtk4.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/g1uq7ypa4bcrdko9d4atf91uew",
+            "https://video.sibnet.ru/shell.php?videoid=4839033"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 5",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 3 (Ile céleste)",
+      "index": 5,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774113",
+            "https://vidmoly.to/embed-brkmn1qtv5ph.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/pdd13ekpfeer9yjrssgkq7ejce",
+            "https://video.sibnet.ru/shell.php?videoid=4839038"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 6",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 3 (Ile céleste)",
+      "index": 6,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774116",
+            "https://vidmoly.to/embed-ia6sfuytqnj1.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/e5ympfhgqkgwunawouci4hgn9w\t",
+            "https://video.sibnet.ru/shell.php?videoid=4839043"
+          ]
+        }
+      ]
+    }
+  ]
+}

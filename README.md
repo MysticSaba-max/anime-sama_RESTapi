@@ -1,46 +1,154 @@
 # Anime-Sama API
-An API for anime-sama.fr, also provides a CLI to download videos.
 
-I have implemented all the features I care about. This project is now in maintenance mode. 
+A FastAPI-based REST API for accessing anime content from anime-sama.fr
 
-# Installation
-Requirements:
-- Python 3.10 or higher
+## Features
 
-You can simply install it with (note that you can use tools like pipx to isolate the installation):
-```bash
-pip install anime-sama-api[cli]
-```
-And to run it:
-```bash
-anime-sama
-```
+- Search for anime series
+- Get season information
+- Get episode streaming links
+- Built-in caching system
+- CORS support
+- Rate limiting
+- Error handling
 
-## Configuration
-You can customize the config at `~/.config/anime-sama_cli/config.toml` for macOS/Linux and at `%USER%/AppData/Local/anime-sama_cli/config.toml` for Windows.
-
-# For developers
 ## Requirements
-- git
-- [uv](https://docs.astral.sh/uv/#installation)
 
-## Install locally
+- Python 3.12 or higher
+- FastAPI
+- Uvicorn
+- Other dependencies (see pyproject.toml)
+
+## Installation
+
+1. Clone the repository:
 ```bash
 git clone https://github.com/Sky-NiniKo/anime-sama_downloader.git
 cd anime-sama_downloader
-uv sync --extra cli
 ```
 
-## Run
+2. Install dependencies using Poetry:
 ```bash
-uv run anime-sama
+poetry install
 ```
 
-## Update
-In the `anime_sama` folder:
+## Running the API
+
+Start the server:
 ```bash
-git pull
+poetry run uvicorn anime_sama.api:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-## Contribution
-I am open to contribution. Please only open a PR for ONE change. AKA, don't do "Various improvements" and explain your motivation behind your improvement ("Various typos fix"/"Cleanup" is fine).
+The API will be available at `http://localhost:8000`
+
+## API Documentation
+
+After starting the server, visit:
+- Swagger UI: `http://localhost:8000/docs`
+- ReDoc: `http://localhost:8000/redoc`
+
+### Endpoints
+
+#### Search Anime
+```http
+GET /search/{query}
+```
+
+Query Parameters:
+- `query` (string, required): The search term
+- `include_seasons` (boolean, optional): Include season information
+- `include_episodes` (boolean, optional): Include episode information
+
+Example Response:
+```json
+[
+  {
+    "name": "One Piece",
+    "url": "https://anime-sama.fr/anime/one-piece",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "serie_name": "One Piece",
+        "url": "https://anime-sama.fr/anime/one-piece/season-1",
+        "episodes": [
+          {
+            "name": "Episode 1",
+            "serie_name": "One Piece",
+            "season_name": "Season 1",
+            "index": 1,
+            "streaming_links": [
+              {
+                "language": "vostfr",
+                "players": [
+                  "https://player1.com/embed/123",
+                  "https://player2.com/embed/456"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+```
+
+### Caching
+
+The API implements two levels of caching:
+1. Global request cache (1 hour TTL)
+2. Episode-specific cache (1 hour TTL)
+
+Cache files are stored in `.episode_cache` directory.
+
+### Error Handling
+
+The API returns standard HTTP status codes:
+- 200: Success
+- 400: Bad Request
+- 404: Not Found
+- 500: Internal Server Error
+
+Error Response Format:
+```json
+{
+  "detail": "Error message description"
+}
+```
+
+### CORS Configuration
+
+By default, the API allows:
+- Origin: `http://localhost:3000`
+- Methods: All
+- Headers: All
+- Credentials: True
+
+## Development
+
+### Project Structure
+```
+anime_sama/
+├── api.py           # Main API implementation
+├── episode_cache.py # Caching system
+└── ...             # Other modules
+```
+
+### Adding New Endpoints
+
+1. Define new Pydantic models in `api.py`
+2. Create new endpoint functions with appropriate decorators
+3. Add error handling
+4. Update documentation
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Push to the branch
+5. Create a Pull Request
+
+## License
+
+This project is licensed under the GPL-3.0 License - see the LICENSE file for details.

@@ -1,0 +1,65 @@
+{
+  "timestamp": 1742903099.4173427,
+  "episodes": [
+    {
+      "name": "La Légende de la pierre de Guelel",
+      "serie_name": "Naruto",
+      "season_name": "Film",
+      "index": 1,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4796971"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4796969"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mission spéciale au pays de la Lune",
+      "serie_name": "Naruto",
+      "season_name": "Film",
+      "index": 2,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4796954"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4796951"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Naruto et la Princesse des neiges",
+      "serie_name": "Naruto",
+      "season_name": "Film",
+      "index": 3,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=5312165"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4796948"
+          ]
+        }
+      ]
+    }
+  ]
+}

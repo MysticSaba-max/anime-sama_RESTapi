@@ -1,0 +1,115 @@
+{
+  "timestamp": 1742902642.2347248,
+  "episodes": [
+    {
+      "name": "Episode 1",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 5 (Thriller Bark)",
+      "index": 1,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774189",
+            "https://vidmoly.to/embed-nt214kpt3rzu.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/gbhuokc6ownwjnmj1ctwxutqea",
+            "https://video.sibnet.ru/shell.php?videoid=4839087"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 2",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 5 (Thriller Bark)",
+      "index": 2,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774190",
+            "https://vidmoly.to/embed-q3y2jzxdg97s.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/6p47c44p7ucwfgyhr8po19br3e",
+            "https://video.sibnet.ru/shell.php?videoid=4839089"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 3",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 5 (Thriller Bark)",
+      "index": 3,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774193",
+            "https://vidmoly.to/embed-cqzkp7kgqaxe.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/az5icz6f6bkwzdfr6bihrmg74w",
+            "https://video.sibnet.ru/shell.php?videoid=4839091"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 4",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 5 (Thriller Bark)",
+      "index": 4,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4774194",
+            "https://vidmoly.to/embed-veh8zqs28qti.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/9srah3zamycw3rs4kegks3nz4y",
+            "https://video.sibnet.ru/shell.php?videoid=4839095"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 5",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 5 (Thriller Bark)",
+      "index": 5,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4775486\t",
+            "https://vidmoly.to/embed-u6wk5ubm0iql.html"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/86kfy36jdxsrxxyfsotxwp1abr\t",
+            "https://video.sibnet.ru/shell.php?videoid=4839098"
+          ]
+        }
+      ]
+    }
+  ]
+}

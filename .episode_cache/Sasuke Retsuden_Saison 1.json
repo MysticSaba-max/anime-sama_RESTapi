@@ -1,0 +1,85 @@
+{
+  "timestamp": 1742903100.7269907,
+  "episodes": [
+    {
+      "name": "Episode 1",
+      "serie_name": "Sasuke Retsuden",
+      "season_name": "Saison 1",
+      "index": 1,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://sendvid.com/embed/y6i7910b",
+            "https://video.sibnet.ru/shell.php?videoid=5002585",
+            "https://www.myvi.tv/embed/mq8xhwjmorermjpczof4rxun4c"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 2",
+      "serie_name": "Sasuke Retsuden",
+      "season_name": "Saison 1",
+      "index": 2,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://sendvid.com/embed/kdb9f4fu",
+            "https://video.sibnet.ru/shell.php?videoid=5009949",
+            "https://www.myvi.tv/embed/o8875zknztnw9qjnfszdrfrrqw"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 3",
+      "serie_name": "Sasuke Retsuden",
+      "season_name": "Saison 1",
+      "index": 3,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://sendvid.com/embed/t1e733vh",
+            "https://video.sibnet.ru/shell.php?videoid=5016724",
+            "https://www.myvi.tv/embed/yf8wt9q7pqxwjnboeyojzk4asa"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 4",
+      "serie_name": "Sasuke Retsuden",
+      "season_name": "Saison 1",
+      "index": 4,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://sendvid.com/embed/7c234j2h",
+            "https://video.sibnet.ru/shell.php?videoid=5025156",
+            "https://www.myvi.tv/embed/3qge87i35jiwjejh1dejdjs97w"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 5",
+      "serie_name": "Sasuke Retsuden",
+      "season_name": "Saison 1",
+      "index": 5,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://sendvid.com/embed/aowu0d6b",
+            "https://video.sibnet.ru/shell.php?videoid=5032089",
+            "https://www.myvi.tv/embed/cc1hzfkfgswwpnqueu79bprynw"
+          ]
+        }
+      ]
+    }
+  ]
+}

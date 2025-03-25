@@ -1,0 +1,22 @@
+{
+  "timestamp": 1742902641.2869594,
+  "episodes": [
+    {
+      "name": "Episode 1",
+      "serie_name": "One Piece",
+      "season_name": "Fan Letter",
+      "index": 1,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=5723040",
+            "https://vidmoly.to/embed-sqi1l1h4gpr9.html",
+            "https://sendvid.com/embed/n3zz76dc",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240594&hd=3"
+          ]
+        }
+      ]
+    }
+  ]
+}

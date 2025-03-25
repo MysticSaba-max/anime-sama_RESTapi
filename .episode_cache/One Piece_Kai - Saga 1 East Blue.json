@@ -1,0 +1,159 @@
+{
+  "timestamp": 1742902641.6087797,
+  "episodes": [
+    {
+      "name": "Episode 1",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 1 (East Blue)",
+      "index": 1,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://vidmoly.to/embed-eg0m6vz5v7eo.html",
+            "https://video.sibnet.ru/shell.php?videoid=4774008"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/whh7jszj3sdwbborg7xjzbpwyh",
+            "https://video.sibnet.ru/shell.php?videoid=4838940"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 2",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 1 (East Blue)",
+      "index": 2,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://vidmoly.to/embed-iam9h4yqeoup.html",
+            "https://video.sibnet.ru/shell.php?videoid=4774014"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/4fscxycmum7r98fqzz3wqrmg1y",
+            "https://video.sibnet.ru/shell.php?videoid=4838946"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 3",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 1 (East Blue)",
+      "index": 3,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://vidmoly.to/embed-f664jte54yey.html",
+            "https://video.sibnet.ru/shell.php?videoid=4774021"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/mq87k1zeydfwz8wkktdukyqfwa",
+            "https://video.sibnet.ru/shell.php?videoid=4838953"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 4",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 1 (East Blue)",
+      "index": 4,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://vidmoly.to/embed-9u2ztxzmnctu.html",
+            "https://video.sibnet.ru/shell.php?videoid=4774026"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/si951dhdkm8r8kef8uawfpykrh",
+            "https://video.sibnet.ru/shell.php?videoid=4838961"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 5",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 1 (East Blue)",
+      "index": 5,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://vidmoly.to/embed-15x1wgumeq3q.html",
+            "https://video.sibnet.ru/shell.php?videoid=4774031"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/3tgr5e7wcmcrpqds5n9ch9jfxh",
+            "https://video.sibnet.ru/shell.php?videoid=4838967"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 6",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 1 (East Blue)",
+      "index": 6,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://vidmoly.to/embed-zgn0oororqsx.html",
+            "https://video.sibnet.ru/shell.php?videoid=4774038"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/dnuh38me3wmr8f5cck4woyn6pe",
+            "https://video.sibnet.ru/shell.php?videoid=4838974"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Episode 7",
+      "serie_name": "One Piece",
+      "season_name": "Kai - Saga 1 (East Blue)",
+      "index": 7,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://vidmoly.to/embed-6l77t0aqhzer.html",
+            "https://video.sibnet.ru/shell.php?videoid=4774042\t"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://www.myvi.tv/embed/f53zpctkyudwbpz5kqaebcwy7h\t",
+            "https://video.sibnet.ru/shell.php?videoid=4838984"
+          ]
+        }
+      ]
+    }
+  ]
+}

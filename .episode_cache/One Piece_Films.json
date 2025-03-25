@@ -1,0 +1,299 @@
+{
+  "timestamp": 1742902641.167444,
+  "episodes": [
+    {
+      "name": "3D : À la Poursuite du Chapeau de Paille",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 1,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736710"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 2,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737433"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737478"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Aventure de l'Île de l'Horloge",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 3,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736389"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737412"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Aventure sans Issue",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 4,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736399"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737415"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Malédiction de l'Épée Sacrée",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 5,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736405"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737418"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Baron Omatsuri et l'Île aux Secrets",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 6,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736513"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737420"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Film",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 7,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736383"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737409"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Mecha Géant du Château Karakuri",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 8,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736520"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737421"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Royaume de Chopper, l'Étrange Île des Animaux",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 9,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736395"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737413"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RED",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 10,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=5071307"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=5071324"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stampede",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 11,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=5255136"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=5289290"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strong World",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 12,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4689347"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737426"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Z",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 13,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736758"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737428"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Épisode d'Alabasta : Les Pirates et la Princesse du Désert",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 14,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736749"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737422"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Épisode de Chopper : Le Miracle des Cerisiers en Hiver",
+      "serie_name": "One Piece",
+      "season_name": "Films",
+      "index": 15,
+      "streaming_links": [
+        {
+          "language": "vostfr",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4736754"
+          ]
+        },
+        {
+          "language": "vf",
+          "players": [
+            "https://video.sibnet.ru/shell.php?videoid=4737423"
+          ]
+        }
+      ]
+    }
+  ]
+}
